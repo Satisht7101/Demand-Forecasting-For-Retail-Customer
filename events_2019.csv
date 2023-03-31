@@ -1,0 +1,141 @@
+Date,Day,Event,WeekEnd,Holiday,LongVacation,HighSales
+1/1/2019,Tuesday,New Year,0,1,1,0
+2/1/2019,Wednesday,Prior Dia de los Re1 Magos/Three Kings Day,0,0,0,1
+3/1/2019,Thursday,Prior Dia de los Re1 Magos/Three Kings Day,0,0,0,1
+4/1/2019,Friday,Prior Dia de los Re1 Magos/Three Kings Day,0,0,0,1
+5/1/2019,Saturday,Prior Dia de los Re1 Magos/Three Kings Day,0,0,0,1
+6/1/2019,Sunday,Dia de los Re1 Magos/Three Kings Day,0,0,0,0
+15/1/2019,Tuesday,Martin Luther King Day,0,1,1,0
+2/2/2019,Saturday,Prior Super Bowl,1,0,0,1
+3/2/2019,Sunday,Prior Super Bowl,1,0,0,1
+4/2/2019,Monday,Super Bowl,0,0,0,1
+7/2/2019,Thursday,Prior Valentine's Day,0,0,0,1
+8/2/2019,Friday,Prior Valentine's Day,0,0,0,1
+9/2/2019,Saturday,Prior Valentine's Day,1,0,0,1
+10/2/2019,Sunday,Prior Valentine's Day,1,0,0,1
+11/2/2019,Monday,Prior Valentine's Day,0,0,0,1
+12/2/2019,Tuesday,Prior Valentine's Day,0,0,0,1
+13/2/2019,Wednesday,Prior Valentine's Day,0,0,0,1
+14/2/2019,Thursday,Valentine's Day,0,0,0,0
+18/2/2019,Monday,Presidents' Day,0,1,1,0
+14/4/2019,Sunday,Prior Easter,1,0,0,1
+15/4/2019,Monday,Prior Easter,0,0,0,1
+16/4/2019,Tuesday,Emancipation Day,0,1,0,1
+17/4/2019,Wednesday,Prior Easter,0,0,0,1
+18/4/2019,Thursday,Prior Easter,0,0,0,1
+19/4/2019,Friday,Prior Easter,0,0,0,1
+20/4/2019,Saturday,Prior Easter,1,0,0,1
+21/4/2019,Sunday,Easter,1,1,0,0
+2/5/2019,Thursday,Prior Cinco de Mayo,0,0,0,0
+3/5/2019,Friday,Prior Cinco de Mayo,0,0,0,0
+4/5/2019,Saturday,Prior Cinco de Mayo,1,0,0,0
+5/5/2019,Sunday,Cinco de Mayo,1,0,0,1
+6/5/2019,Monday,Prior Mother's day,0,0,0,0
+7/5/2019,Tuesday,Prior Mother's day,0,0,0,0
+8/5/2019,Wednesday,Prior Mother's day,0,0,0,0
+9/5/2019,Thursday,Prior Mother's day,0,0,0,1
+10/5/2019,Friday,Prior Mother's day,0,0,0,0
+11/5/2019,Saturday,Prior Mother's day,1,0,0,0
+12/5/2019,Sunday,Mother's Day,1,1,0,0
+20/5/2019,Monday,Prior Memorial Day,0,0,0,0
+21/5/2019,Tuesday,Prior Memorial Day,0,0,0,0
+22/5/2019,Wednesday,Prior Memorial Day,0,0,0,0
+23/5/2019,Thursday,Prior Memorial Day,0,0,0,0
+24/5/2019,Friday,Prior Memorial Day,0,0,0,0
+25/5/2019,Saturday,Prior Memorial Day,1,0,0,0
+26/5/2019,Sunday,Prior Memorial Day,1,0,0,0
+27/5/2019,Monday,Memorial Day,0,1,1,0
+2/6/2019,Sunday,Prior Dial del Nino,1,0,0,0
+3/6/2019,Monday,Prior Dial del Nino,0,0,0,0
+4/6/2019,Tuesday,Prior Dial del Nino,0,0,0,0
+5/6/2019,Wednesday,Prior Dial del Nino,0,0,0,0
+6/6/2019,Thursday,Prior Dial del Nino,0,0,0,0
+7/6/2019,Friday,Prior Dial del Nino,0,0,0,1
+8/6/2019,Saturday,Prior Dial del Nino,1,0,0,1
+9/6/2019,Sunday,Dia del Nino/Day of the kids,1,0,0,1
+10/6/2019,Monday,Prior Father's Day,0,0,0,1
+11/6/2019,Tuesday,Prior Father's Day,0,0,0,1
+12/6/2019,Wednesday,Prior Father's Day,0,0,0,1
+13/6/2019,Thursday,Prior Father's Day,0,0,0,0
+14/6/2019,Friday,Prior Father's Day,0,0,0,0
+15/6/2019,Saturday,Prior Father's Day,1,0,0,0
+16/6/2019,Sunday,Father's Day,1,1,0,0
+27/6/2019,Thursday,Prior Independence Day,0,0,0,0
+28/6/2019,Friday,Prior Independence Day,0,0,0,0
+29/6/2019,Saturday,Prior Independence Day,1,0,0,0
+30/6/2019,Sunday,Prior Independence Day,1,0,0,0
+1/7/2019,Monday,Prior Independence Day,0,0,0,0
+2/7/2019,Tuesday,Prior Independence Day,0,0,0,0
+3/7/2019,Wednesday,Prior Independence Day,0,0,0,0
+4/7/2019,Thursday,Independence Day,0,1,1,0
+26/8/2019,Monday,Prior Labor Day,0,0,0,0
+27/8/2019,Tuesday,Prior Labor Day,0,0,0,0
+28/8/2019,Wednesday,Prior Labor Day,0,0,0,0
+29/8/2019,Thursday,Prior Labor Day,0,0,0,0
+30/8/2019,Friday,Prior Labor Day,0,0,0,0
+31/8/2019,Saturday,Prior Labor Day,1,0,0,0
+1/9/2019,Sunday,Prior Labor Day,1,0,0,0
+2/9/2019,Monday,Labor Day,0,1,1,0
+15/9/2019,Sunday,Non-US Independence Day,1,0,0,0
+16/9/2019,Monday,Non-US Independence Day,0,0,0,0
+17/9/2019,Tuesday,Non-US Independence Day,0,0,0,0
+18/9/2019,Wednesday,Non-US Independence Day,0,0,0,0
+19/9/2019,Thursday,Non-US Independence Day,0,0,0,0
+20/9/2019,Friday,Non-US Independence Day,0,0,0,0
+21/9/2019,Saturday,Non-US Independence Day,1,0,0,0
+22/9/2019,Sunday,Non-US Independence Day,1,0,0,0
+23/9/2019,Monday,Non-US Independence Day,0,0,0,0
+24/9/2019,Tuesday,Non-US Independence Day,0,0,0,0
+25/9/2019,Wednesday,Non-US Independence Day,0,0,0,0
+26/9/2019,Thursday,Non-US Independence Day,0,0,0,0
+27/9/2019,Friday,Non-US Independence Day,0,0,0,0
+28/9/2019,Saturday,Non-US Independence Day,1,0,0,0
+29/9/2019,Sunday,Non-US Independence Day,1,0,0,0
+30/9/2019,Monday,Non-US Independence Day,0,0,0,0
+14/10/2019,Monday,Columbus Day,0,1,1,0
+26/10/2019,Saturday,Prior Dia de los Muertos/Day of the Dead,1,0,0,0
+27/10/2019,Sunday,Prior Dia de los Muertos/Day of the Dead,1,0,0,0
+28/10/2019,Monday,Prior Dia de los Muertos/Day of the Dead,0,0,0,0
+29/10/2019,Tuesday,Prior Dia de los Muertos/Day of the Dead,0,0,0,0
+30/10/2019,Wednesday,Prior Dia de los Muertos/Day of the Dead,0,0,0,0
+31/10/2019,Thursday,Prior Dia de los Muertos/Day of the Dead,0,0,0,0
+1/11/2019,Friday,Prior Dia de los Muertos/Day of the Dead,0,0,0,0
+2/11/2019,Saturday,Dia de los Muertos/Day of the Dead,1,0,0,0
+11/11/2019,Monday,Veterans Day,0,0,0,0
+14/11/2019,Thursday,Prior Thanksgiving,0,0,0,0
+15/11/2019,Friday,Prior Thanksgiving,0,0,0,0
+16/11/2019,Saturday,Prior Thanksgiving,1,0,0,0
+17/11/2019,Sunday,Prior Thanksgiving,1,0,0,0
+18/11/2019,Monday,Prior Thanksgiving,0,0,0,0
+19/11/2019,Tuesday,Prior Thanksgiving,0,0,0,0
+20/11/2019,Wednesday,Prior Thanksgiving,0,0,0,0
+21/11/2019,Thursday,Prior Thanksgiving,0,0,0,0
+22/11/2019,Friday,Prior Thanksgiving,0,0,0,0
+23/11/2019,Saturday,Prior Thanksgiving,1,0,0,0
+24/11/2019,Sunday,Prior Thanksgiving,1,0,0,0
+25/11/2019,Monday,Prior Thanksgiving,0,0,0,0
+26/11/2019,Tuesday,Prior Thanksgiving,0,0,0,1
+27/11/2019,Wednesday,Prior Thanksgiving,0,0,0,1
+28/11/2019,Thursday,Thanksgiving,0,1,1,1
+29/11/2019,Friday,Day after Thanksgiving,0,1,1,1
+11/12/2019,Wednesday,Prior Christmas,0,0,0,0
+12/12/2019,Thursday,Prior Christmas,0,0,0,0
+13/12/2019,Friday,Prior Christmas,0,0,0,0
+14/12/2019,Saturday,Prior Christmas,1,0,0,0
+15/12/2019,Sunday,Prior Christmas,1,0,0,0
+16/12/2019,Monday,Prior Christmas/Las Posadas,0,0,0,1
+17/12/2019,Tuesday,Prior Christmas/Las Posadas,0,0,0,1
+18/12/2019,Wednesday,Prior Christmas/Las Posadas,0,0,0,1
+19/12/2019,Thursday,Prior Christmas/Las Posadas,0,0,0,1
+20/12/2019,Friday,Prior Christmas/Las Posadas,0,0,0,1
+21/12/2019,Saturday,Prior Christmas/Las Posadas,1,1,1,1
+22/12/2019,Sunday,Prior Christmas/Las Posadas,1,1,1,1
+23/12/2019,Monday,Prior Christmas/Las Posadas,0,1,1,1
+24/12/2019,Tuesday,Prior Christmas/Las Posadas,0,1,1,1
+25/12/2019,Wednesday,Christmas,0,1,1,1
+26/12/2019,Thursday,Christmas Day (in lieu),0,1,1,1
+27/12/2019,Friday,New year's eve,0,1,1,1
+28/12/2019,Saturday,New year's eve,1,1,1,1
+29/12/2019,Sunday,New year's eve,1,1,1,1
+30/12/2019,Monday,New year's eve,0,1,1,1
+31/12/2019,Tuesday,New year's eve,0,1,1,1
